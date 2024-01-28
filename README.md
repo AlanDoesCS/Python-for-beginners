@@ -26,10 +26,12 @@ Introduction to data types:
 1. Make a program to add 2 numbers that are inputted into the terminal
 2. Make a program to multiply 2 numbers that are inputted into the terminal
 3. Make a program to divide 2 numbers that are inputted into the terminal
+
 :star::star::
 4. Make a program that (tip: use the built in `.split()` method to get a list of things inputted)
 5. Edit the program so it can detect specific operators and perform the corresponding operation (e.g " + " adds, " * " multiplies, " / " divides)
 6. Edit the program so it can take more than 2 numbers to operate on
+
 :star::star::star::star::
 7. Make it follow the correct order of operations (BIDMAS / PEMDAS) - Feel free to ask me about this as it can be quite complicated
 
