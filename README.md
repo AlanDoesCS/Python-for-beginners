@@ -1,5 +1,5 @@
 # Python-for-beginners
-Step by step guide for beginner python programmers
+A step by step guide for beginner python programmers
 
 
 # List of resources:
