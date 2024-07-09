@@ -1,11 +1,11 @@
 # Python-for-beginners
-A step by step guide for beginner python programmers
+A list of resources for beginner python programmers, who want a practical approach to learning the language.
 
 
 # List of resources:
 ## _(If you ever are confused about something, just ask! I don't mind :D )_
 
-Also our school pays for a code editor called "PyCharm" which anyone from our school can use even if they don't take computer science, and I'd really recommend it over other code editors just because it makes everything so much nicer:
+If you are looking for a code editor, I would highly recommand PyCharm (the editor that I personally use) or Visual Studio Code. PyCharm is paid, but is easier to use in my opinion.
 
 ## Good starting points:
 - [W3Schools, (great because it starts with the basics but u can skip to harder stuff based on ur skill level)](https://www.w3schools.com/python/default.asp)
