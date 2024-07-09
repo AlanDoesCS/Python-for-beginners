@@ -18,7 +18,7 @@ Introduction to data types:
 - [Lists](https://www.youtube.com/watch?v=9OeznAkyQz4)
 
 - :star::star: [How to use the time module to get what time it is](https://www.youtube.com/watch?v=Qj3GlL5ckQA)
-- :star::star::star: [Simple login system using python  , (the guy is kind boring so maybe just speed it up to like 1.25x)](https://www.youtube.com/watch?v=keY_RKilMp0)
+- :star::star::star: [Simple login system using python](https://www.youtube.com/watch?v=keY_RKilMp0)
 
 ## Code challenges:
 ### Calculator:
@@ -37,9 +37,11 @@ Introduction to data types:
 
 7. Make it follow the correct order of operations (BIDMAS / PEMDAS) - Feel free to ask me about this as it can be quite complicated
 
-### Basic Operating System (OS):
+### Basic Pseudo-Operating-System:
 :star::
 1. Get the user to enter a username and display a welcome message (e.g. "`Welcome, John`")
-2. 
+2. Create a simple command line interface with a `help` command that lists all available actions
+    - 2.1. `eval` : solves a mathematical expression
+    - 2.2. implement the basic UNIX commands (`touch`, `ls`, ...)
 
 # Still in progress...
